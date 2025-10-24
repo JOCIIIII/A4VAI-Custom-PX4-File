@@ -65,7 +65,6 @@ px4_add_romfs_files(
 	1061_gazebo-classic_r1_rover
 	1062_flightgear_tf-r1
 	1070_gazebo-classic_boat
-	1200_gazebo-classic_s2000_hitl
 	2000_gazebo-classic_s2000
 	2507_gazebo-classic_cloudship
 

@@ -47,7 +47,7 @@
       <uri>model://asphalt_plane</uri>
     </include>
     <include>
-      <uri>model://s2000</uri>
+      <uri>model://s2000_hitl</uri>
       <pose>1.01 0.98 0.83 0 0 -0.785398</pose>  <!-- 동적 스폰과 동일한 위치 -->
     </include>
   </world>

@@ -3,7 +3,7 @@
 # @name Gazebo s2000
 #
 # @type Octocopter X geometry
-#
+# @class Copter
 
 . ${R}etc/init.d/rc.mc_defaults
 
