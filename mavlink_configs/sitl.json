@@ -35,6 +35,11 @@
             "test_filter": "[multicopter]",
             "timeout_min": 10
         }
-
+        {
+            "model": "s2000_hitl",
+            "vehicle": "s2000_hitl",
+            "test_filter": "[multicopter]",
+            "timeout_min": 10
+        }
     ]
 }
